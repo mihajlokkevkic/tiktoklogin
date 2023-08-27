@@ -1,0 +1,17 @@
+input{
+    border-radius: 50px;
+    color: rgb(245, 77, 77);
+    background-color: rgb(255, 255, 255);
+}
+::placeholder{
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+}
+h1{
+    color: white;
+    position: static;
+}
+img{
+    position: absolute;
+    size: 90cqmax;
+}
